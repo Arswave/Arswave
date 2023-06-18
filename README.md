@@ -1,5 +1,5 @@
 ### Hi there, we are arswave team 👋 
-<img src="Purple and Black Gradient Simple Logo (9).png" width="150" height="150"/>
+<img src="Purple and Black Gradient Simple Logo (9).png" style="border-radius: 50%" width="150" height="150"/>
 
 <!--
 **Arswave/Arswave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
