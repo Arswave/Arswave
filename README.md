@@ -1,4 +1,5 @@
-### Hi there, we are arswave team 👋
+### Hi there, we are arswave team 👋 
+<img src="Purple and Black Gradient Simple Logo (9).png" width="100" height="100"/>
 
 <!--
 **Arswave/Arswave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
